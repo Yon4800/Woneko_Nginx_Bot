@@ -41,6 +41,7 @@ wonekonote = [
     "をねことは何者なのか...我々はアマゾンの奥地へ向かった...",
     "Hello:neko_relax:",
     "何かあったらYon4800に言ってね:neko_relax:",
+    "んーーーー！！！んーーーー！！！:neko_tired2:"
 ]
 
 polls = [
