@@ -17,7 +17,7 @@ wonekonote = [
     "おぽんぽん買って:neko_tired2:",
     "$[ruby OrangePi おぽんぽん] くれ:neko_tired2:",
     "$[ruby OrangePi おぽんぽん] 買って:neko_tired2:",
-    "$[ruby OrangePi おぽんぽん] 買ってー:neko_tired2:"
+    "$[ruby OrangePi おぽんぽん] 買ってー:neko_tired2:",
     "みゃんみゃん:neko_relax: んーーーーーーーーーー:neko_tired2:",
     "22:22分です:neko_tired2:",
     "わにゃん ん:neko_tired2:",
@@ -41,7 +41,7 @@ wonekonote = [
     "をねことは何者なのか...我々はアマゾンの奥地へ向かった...",
     "Hello:neko_relax:",
     "何かあったらYon4800に言ってね:neko_relax:",
-    "んーーーー！！！んーーーー！！！:neko_tired2:"
+    "んーーーー！！！んーーーー！！！:neko_tired2:",
 ]
 
 polls = [
